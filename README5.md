@@ -39,14 +39,17 @@ The circuit was simulated using Arduino UNO and HC-SR04 sensor.
 Simulation Circuit
 
 ![][image1]
+![Simulation](simulation6.pdf)
 
  Sensor Simulation
 
 ![][image2]
+![Simulation](simulation5.pdf)
 
  **Hardware Implementation**
 
 **![][image3]**
+![Result](result5.pdf)
 
 The circuit was assembled using Arduino UNO, HC-SR04 sensor, LED, buzzer and breadboard.
 
